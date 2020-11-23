@@ -1,0 +1,5 @@
+There are a total of 6 different UiPath projects in .zip format. Unzip the projects, ensure each project follows the folder structure below: for example
+SourceCode
+|------ UiPath
+|-----------PM3_UiPath_Recieve_Invites
+|----------------- project.json is found here
