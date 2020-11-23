@@ -3,7 +3,7 @@ Productivity booster for childcare center administrative staff
 
 ## SECTION 1 : PROJECT TITLE
 ## Childcare-Parent Liaison Aide
-![Project picture](https://github.com/chen-mingyie/childcare-parent-liaison-aide/Miscellaneous/ChildcareParentLiaisonAide.png)
+![Project picture](https://github.com/chen-mingyie/childcare-parent-liaison-aide/blob/master/Miscellaneous/ChildcareParentLiaisonAide.png)
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
